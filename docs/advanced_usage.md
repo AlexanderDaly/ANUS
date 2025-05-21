@@ -172,6 +172,23 @@ research_tool = ComposedTool(
 agent = Agent(tools=[research_tool])
 ```
 
+### Audio-Driven Fractal Generation
+
+The `AudioTool` and `FractalTool` can be combined to create programs that
+react to sound. The audio analysis provides volume and frequency data which
+is then used to modulate a simple ASCII fractal tree.
+
+```python
+from anus.tools import AudioTool, FractalTool
+
+audio = AudioTool()
+fractal = FractalTool()
+
+features = audio.execute(source="music.wav").result
+result = fractal.execute(volume=features["volume"], frequency=features["frequency"])
+print(result["fractal"])
+```
+
 ## Advanced Configuration
 
 ### Environment-Specific Configuration

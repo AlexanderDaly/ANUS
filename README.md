@@ -389,6 +389,13 @@ response = agent.run(
 print(response)
 ```
 
+#### Audio-Driven Fractal Generation
+
+```bash
+anus run --mode single \
+"Create a Python program that listens to the sound playing through the Macbook speakers in real time, analyzes the volume and dominant frequencies, and continuously draws a fractal whose shape and colors change based on those audio features."
+```
+
 ### Command-Line Interface Examples
 
 #### Running Tasks
