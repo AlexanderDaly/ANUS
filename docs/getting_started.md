@@ -151,15 +151,15 @@ anus run --config custom_config.yaml "Summarize this article: https://example.co
 ## Next Steps
 
 - Explore the [Documentation](https://anus-ai.github.io/docs) for more detailed information
-- Check out the [Examples](https://github.com/anus-ai/anus/tree/main/examples) directory for more use cases
-- Join our [Community](https://discord.gg/anus-ai) to connect with other users and developers
-- Consider [Contributing](https://github.com/anus-ai/anus/blob/main/CONTRIBUTING.md) to the project
+- Check out the [Examples](https://github.com/nikmcfly/ANUS/tree/main/examples) directory for more use cases
+- Join our [Community](https://t.me/goanus) to connect with other users and developers
+- Consider [Contributing](https://github.com/nikmcfly/ANUS/blob/main/CONTRIBUTING.md) to the project
 
 ## Getting Help
 
 If you encounter any issues or have questions:
 
 - Check the [FAQ](https://anus-ai.github.io/docs/faq)
-- Search for existing [Issues](https://github.com/anus-ai/anus/issues)
-- Ask for help in our [Discord](https://discord.gg/anus-ai) community
-- Open a new [Issue](https://github.com/anus-ai/anus/issues/new) if you found a bug
+- Search for existing [Issues](https://github.com/nikmcfly/ANUS/issues)
+- Ask for help in our [Telegram channel](https://t.me/goanus)
+- Open a new [Issue](https://github.com/nikmcfly/ANUS/issues/new) if you found a bug

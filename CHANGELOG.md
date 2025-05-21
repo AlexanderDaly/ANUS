@@ -29,7 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - N/A
 
 ### Fixed
-- N/A
+- Resolved "ModuleNotFoundError: No module named 'main'" on Windows by moving `main.py` into the `anus` package and updating `setup.py` (Issue #13).
 
 ### Security
 - N/A

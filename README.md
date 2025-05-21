@@ -15,7 +15,7 @@
   <a href="https://github.com/nikmcfly/ANUS/issues"><img src="https://img.shields.io/github/issues/nikmcfly/ANUS.svg" alt="GitHub issues"></a>
   <a href="https://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <a href="https://anus-ai.github.io/docs"><img src="https://img.shields.io/badge/docs-latest-brightgreen.svg" alt="Documentation Status"></a>
-  <a href="https://discord.gg/anus-ai"><img src="https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://t.me/goanus"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 ## Table of Contents
@@ -596,9 +596,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 Join our community to get help, share ideas, and contribute to the project:
 
-- [Discord Server](https://discord.gg/anus-ai)
-- [Twitter](https://twitter.com/anus_ai)
-- [Reddit](https://reddit.com/r/anus_ai)
+- [Telegram Channel](https://t.me/goanus)
 
 ## 📝 License
 

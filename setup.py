@@ -29,7 +29,7 @@ setup(
     install_requires=requirements,
     entry_points={
         "console_scripts": [
-            "anus=main:main",
+            "anus=anus.main:main",
         ],
     },
 )

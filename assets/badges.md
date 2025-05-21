@@ -9,4 +9,4 @@
 [![GitHub issues](https://img.shields.io/github/issues/anus-ai/anus.svg)](https://github.com/anus-ai/anus/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 [![Documentation Status](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://anus-ai.github.io/docs)
-[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/anus-ai)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/goanus)

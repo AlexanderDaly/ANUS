@@ -153,8 +153,6 @@ Types include:
 
 Join our community to get help, share ideas, and contribute to the project:
 
-- [Discord Server](https://discord.gg/anus-ai)
-- [Twitter](https://twitter.com/anus_ai)
-- [Reddit](https://reddit.com/r/anus_ai)
+- [Telegram Channel](https://t.me/goanus)
 
 Thank you for contributing to Anus AI!
