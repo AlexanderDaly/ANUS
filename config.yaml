@@ -18,6 +18,8 @@ tools:
     - search
     - text
     - code
+    - audio
+    - fractal
 
 logging:
   level: DEBUG
